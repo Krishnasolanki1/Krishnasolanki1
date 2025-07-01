@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krishnasolanki1
+
 
 
 <h1 align="center">Hi 👋, I'm Krishna Solanki</h1>
